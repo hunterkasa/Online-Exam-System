@@ -1,0 +1,17 @@
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\BLL.dll.config
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\BLL.dll
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\BLL.pdb
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\AutoMapper.dll
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\DAL.dll
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\EntityFramework.dll
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\DAL.pdb
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\DAL.dll.config
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\AutoMapper.xml
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\EntityFramework.xml
+E:\CODE\asp\demoFinal_3\BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\CODE\asp\demoFinal_3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\CODE\asp\demoFinal_3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\CODE\asp\demoFinal_3\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\CODE\asp\demoFinal_3\BLL\obj\Debug\BLL.dll
+E:\CODE\asp\demoFinal_3\BLL\obj\Debug\BLL.pdb
